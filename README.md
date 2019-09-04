@@ -1,7 +1,7 @@
-# Training / Test Data
+# Spaces Dataset
 
 We have collected 100 scenes of data for training and testing. The data was
-collected with a 16 camera rig. For each scene we captured between 3 and 10
+collected with a 16 camera [rig](docs/rigs.pdf). For each scene we captured between 3 and 10
 different rig positions. The rig positions are all relatively close together, so
 one rig position can be used as the input to a model, with an image from a
 different rig position used as the target image.
