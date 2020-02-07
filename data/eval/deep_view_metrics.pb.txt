@@ -1,0 +1,1058 @@
+dataset_name: "deep_view"
+ssim: 0.958362224355
+experiment_metrics {
+  experiment_name: "small_quad"
+  ssim: 0.956108354472
+  scene_metrics {
+    scene_name: "scene_000"
+    ssim: 0.966571522927
+    image_metrics {
+      view_index: 5
+      ssim: 0.965516342561
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.96872589524
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.965472330982
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_009"
+    ssim: 0.9616059506
+    image_metrics {
+      view_index: 5
+      ssim: 0.961042777867
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.963623740166
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.960151333767
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_010"
+    ssim: 0.958708154687
+    image_metrics {
+      view_index: 5
+      ssim: 0.957601491121
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.962031906081
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.956491066858
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_023"
+    ssim: 0.953582046403
+    image_metrics {
+      view_index: 5
+      ssim: 0.951471903702
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.956591173193
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.952683062314
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_024"
+    ssim: 0.961312690072
+    image_metrics {
+      view_index: 5
+      ssim: 0.960217229331
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.962231208641
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.961489632244
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_052"
+    ssim: 0.946296933712
+    image_metrics {
+      view_index: 5
+      ssim: 0.946029276455
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.953256326498
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.939605198185
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_056"
+    ssim: 0.949776569588
+    image_metrics {
+      view_index: 5
+      ssim: 0.947988197808
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.956143616495
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.945197894461
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_062"
+    ssim: 0.957272381235
+    image_metrics {
+      view_index: 5
+      ssim: 0.956031596573
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.960984345217
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.954801201916
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_063"
+    ssim: 0.953440671388
+    image_metrics {
+      view_index: 5
+      ssim: 0.953206349271
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.956668937317
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.950446727575
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_073"
+    ssim: 0.952516624109
+    image_metrics {
+      view_index: 5
+      ssim: 0.951871585318
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.956596570856
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.949081716154
+    }
+  }
+}
+experiment_metrics {
+  experiment_name: "medium_quad"
+  ssim: 0.957896110277
+  scene_metrics {
+    scene_name: "scene_000"
+    ssim: 0.966912765406
+    image_metrics {
+      view_index: 2
+      ssim: 0.968834976506
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.964402119265
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.967270916862
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.96875892232
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.963947768729
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.968261888757
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_009"
+    ssim: 0.964250281804
+    image_metrics {
+      view_index: 2
+      ssim: 0.968769787493
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.963647567794
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.963088742676
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.963800306451
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.95818054211
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.968014744302
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_010"
+    ssim: 0.961086109468
+    image_metrics {
+      view_index: 2
+      ssim: 0.968530341616
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.951947620367
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.956478025463
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.961279440207
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.958928371932
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.96935285722
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_023"
+    ssim: 0.95560895122
+    image_metrics {
+      view_index: 2
+      ssim: 0.960126585554
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.952395650103
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.95596021945
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.955550175838
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.951360410927
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.95826066545
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_024"
+    ssim: 0.964805164547
+    image_metrics {
+      view_index: 2
+      ssim: 0.972943103934
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.958980675394
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.959466329603
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.963307735502
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.961380635418
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.97275250743
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_052"
+    ssim: 0.948699338058
+    image_metrics {
+      view_index: 2
+      ssim: 0.955586781415
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.943934485062
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.948821016682
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.95079597516
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.938054083973
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.955003686055
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_056"
+    ssim: 0.951242811046
+    image_metrics {
+      view_index: 2
+      ssim: 0.955595836982
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.947579616177
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.953596831845
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.95371222281
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.944364720919
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.952607637542
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_062"
+    ssim: 0.956591252714
+    image_metrics {
+      view_index: 2
+      ssim: 0.959966926612
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.955233148083
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.957834865244
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.958111415208
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.95357868405
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.954822477088
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_063"
+    ssim: 0.953329490912
+    image_metrics {
+      view_index: 2
+      ssim: 0.956654115516
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.950768535598
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.955759055958
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.955389448832
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.945920622024
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.955485167545
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_073"
+    ssim: 0.956434937591
+    image_metrics {
+      view_index: 2
+      ssim: 0.964320991398
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.951329263264
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.955326581777
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.956122402766
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.948199951362
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.963310434978
+    }
+  }
+}
+experiment_metrics {
+  experiment_name: "large_quad"
+  ssim: 0.954362615475
+  scene_metrics {
+    scene_name: "scene_000"
+    ssim: 0.961007098217
+    image_metrics {
+      view_index: 1
+      ssim: 0.96039630078
+    }
+    image_metrics {
+      view_index: 2
+      ssim: 0.960866356121
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.959488843437
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.959851638813
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.960958752555
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.963709201219
+    }
+    image_metrics {
+      view_index: 8
+      ssim: 0.959290403627
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.962971822554
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.961530564852
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_009"
+    ssim: 0.961357431076
+    image_metrics {
+      view_index: 1
+      ssim: 0.964450446477
+    }
+    image_metrics {
+      view_index: 2
+      ssim: 0.963050732173
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.961131325313
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.959984033408
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.957634584014
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.959583265956
+    }
+    image_metrics {
+      view_index: 8
+      ssim: 0.957387660778
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.96552801855
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.963466813015
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_010"
+    ssim: 0.959573975034
+    image_metrics {
+      view_index: 1
+      ssim: 0.963429315331
+    }
+    image_metrics {
+      view_index: 2
+      ssim: 0.962750986983
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.949675582741
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.953845601816
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.954161815149
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.962868016948
+    }
+    image_metrics {
+      view_index: 8
+      ssim: 0.961779308441
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.963828372734
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.963826775167
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_023"
+    ssim: 0.950623594578
+    image_metrics {
+      view_index: 1
+      ssim: 0.952161804696
+    }
+    image_metrics {
+      view_index: 2
+      ssim: 0.954171307665
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.94894205289
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.951889199958
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.946603007772
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.951114948273
+    }
+    image_metrics {
+      view_index: 8
+      ssim: 0.947956741644
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.951748027883
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.95102526042
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_024"
+    ssim: 0.963700249218
+    image_metrics {
+      view_index: 1
+      ssim: 0.970369656545
+    }
+    image_metrics {
+      view_index: 2
+      ssim: 0.967927718668
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.9580567157
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.955529132967
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.95665287699
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.964103835532
+    }
+    image_metrics {
+      view_index: 8
+      ssim: 0.961155503853
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.970616213735
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.968890588972
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_052"
+    ssim: 0.945032457139
+    image_metrics {
+      view_index: 1
+      ssim: 0.948023339112
+    }
+    image_metrics {
+      view_index: 2
+      ssim: 0.94833675572
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.940156869218
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.946444058687
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.943667884593
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.943208815654
+    }
+    image_metrics {
+      view_index: 8
+      ssim: 0.937519456621
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.950679040531
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.947255894116
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_056"
+    ssim: 0.946819437736
+    image_metrics {
+      view_index: 1
+      ssim: 0.946705341258
+    }
+    image_metrics {
+      view_index: 2
+      ssim: 0.948752370509
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.944641314371
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.950929897307
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.94601977875
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.948702137835
+    }
+    image_metrics {
+      view_index: 8
+      ssim: 0.942069019805
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.94848589293
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.945069186864
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_062"
+    ssim: 0.950830337974
+    image_metrics {
+      view_index: 1
+      ssim: 0.946354956375
+    }
+    image_metrics {
+      view_index: 2
+      ssim: 0.950659084536
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.952475509763
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.955002723485
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.944247030589
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.958199730445
+    }
+    image_metrics {
+      view_index: 8
+      ssim: 0.954982438638
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.949780178892
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.945771389042
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_063"
+    ssim: 0.951386158055
+    image_metrics {
+      view_index: 1
+      ssim: 0.948568986482
+    }
+    image_metrics {
+      view_index: 2
+      ssim: 0.955564888971
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.949687366913
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.953405871745
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.956241269996
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.947887524372
+    }
+    image_metrics {
+      view_index: 8
+      ssim: 0.9463793947
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.95281915218
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.951920967138
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_073"
+    ssim: 0.953295415721
+    image_metrics {
+      view_index: 1
+      ssim: 0.956831425054
+    }
+    image_metrics {
+      view_index: 2
+      ssim: 0.957904832387
+    }
+    image_metrics {
+      view_index: 4
+      ssim: 0.949508448736
+    }
+    image_metrics {
+      view_index: 5
+      ssim: 0.953201183855
+    }
+    image_metrics {
+      view_index: 6
+      ssim: 0.948712493406
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.951729103866
+    }
+    image_metrics {
+      view_index: 8
+      ssim: 0.949003476523
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.955628157469
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.957139620198
+    }
+  }
+}
+experiment_metrics {
+  experiment_name: "dense"
+  ssim: 0.965081817196
+  scene_metrics {
+    scene_name: "scene_000"
+    ssim: 0.972194826961
+    image_metrics {
+      view_index: 5
+      ssim: 0.972654697162
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.971681118969
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.972823374153
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.971620117562
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_009"
+    ssim: 0.968771204549
+    image_metrics {
+      view_index: 5
+      ssim: 0.968961939732
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.967127803173
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.970197206789
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.968797868501
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_010"
+    ssim: 0.966320984894
+    image_metrics {
+      view_index: 5
+      ssim: 0.962450829367
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.968816568167
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.967214020636
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.966802521405
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_023"
+    ssim: 0.961266690408
+    image_metrics {
+      view_index: 5
+      ssim: 0.96402055048
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.962185080297
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.960117724415
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.958743406441
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_024"
+    ssim: 0.969386852308
+    image_metrics {
+      view_index: 5
+      ssim: 0.969142948761
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.969991666454
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.969993553656
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.96841924036
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_052"
+    ssim: 0.95873519956
+    image_metrics {
+      view_index: 5
+      ssim: 0.959482972399
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.955051443536
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.960616418575
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.95978996373
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_056"
+    ssim: 0.958916070066
+    image_metrics {
+      view_index: 5
+      ssim: 0.959894476881
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.957459510437
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.959938679576
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.95837161337
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_062"
+    ssim: 0.964356889172
+    image_metrics {
+      view_index: 5
+      ssim: 0.964968196657
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.966120713631
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.963728443299
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.962610203101
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_063"
+    ssim: 0.965356310089
+    image_metrics {
+      view_index: 5
+      ssim: 0.966263899012
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.963627131303
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.965147125037
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.966387085006
+    }
+  }
+  scene_metrics {
+    scene_name: "scene_073"
+    ssim: 0.965513143954
+    image_metrics {
+      view_index: 5
+      ssim: 0.966052495771
+    }
+    image_metrics {
+      view_index: 7
+      ssim: 0.964196885828
+    }
+    image_metrics {
+      view_index: 10
+      ssim: 0.965502441656
+    }
+    image_metrics {
+      view_index: 11
+      ssim: 0.966300752559
+    }
+  }
+}
