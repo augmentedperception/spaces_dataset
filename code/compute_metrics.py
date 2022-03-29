@@ -41,7 +41,7 @@ def compute_ssim(edge_crop, image_0_path, image_1_path):
 
 
 def main(argv):
-  """Runs the RecurrentMPI model with inputs from a lightfield provider."""
+  """Computes metrics on previously computed model outputs."""
   assert len(argv) >= 2 and len(argv) < 4, argv
   base_dir = argv[0]
   # Should be either deep_view_synth_%02d.png or soft3d_synth_%02d.png
